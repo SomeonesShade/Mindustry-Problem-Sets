@@ -1,5 +1,5 @@
-# Mindustry-Problem-Sets
-A quick wiki-esque list I'll be using to refer for Mindustry Balancing
+# Mindustry Balance Analysis
+A repository made to document problem sets, mechanics, and specific analysis for referencing in suggestions, prs, or general discussion.
 
 ## Navigation
-[Serpulo Problem Set](https://github.com/SomeonesShade/Mindustry-Problem-Sets/blob/main/Serpulo/Content%20Specific.md)
+[Serpulo Problem Set](https://github.com/SomeonesShade/Mindustry-Balance-Analysis/blob/main/Serpulo/Content%20Specific%20Problems.md)
