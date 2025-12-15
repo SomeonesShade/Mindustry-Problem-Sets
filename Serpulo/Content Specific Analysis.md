@@ -19,7 +19,12 @@ Problem Set
 
 _**Appendix**_  
 [Suggestion Post on Graphite Duo Overperforming](https://github.com/Anuken/Mindustry-Suggestions/issues/5645)
- 
+
+### Scorch (v153)
+
+_**Appendix**_  
+[Suggestion Post on Pyratite Scorch being op](https://github.com/Anuken/Mindustry-Suggestions/issues/5983)
+
 ## Units
 
 ### Dagger (v153)
